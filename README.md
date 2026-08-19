@@ -4,5 +4,14 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0189-rotate-array](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
