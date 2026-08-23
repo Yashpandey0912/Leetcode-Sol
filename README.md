@@ -15,4 +15,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0008-string-to-integer-atoi/) | Medium |
 <!---LeetCode Topics End-->
