@@ -12,6 +12,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
+| [1922-count-good-numbers](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/1922-count-good-numbers/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0050-powx-n/) | Medium |
+| [1922-count-good-numbers](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->
