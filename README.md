@@ -10,6 +10,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0050-powx-n/) | Medium |
 | [0189-rotate-array](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -19,4 +20,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0008-string-to-integer-atoi/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
