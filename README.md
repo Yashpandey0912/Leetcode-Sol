@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0039-combination-sum/) | Medium |
 | [0189-rotate-array](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -35,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0039-combination-sum/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
