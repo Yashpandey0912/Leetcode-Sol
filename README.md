@@ -8,6 +8,7 @@
 | [0040-combination-sum-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0090-subsets-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0216-combination-sum-iii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 ## Math
@@ -41,6 +42,7 @@
 | [0039-combination-sum](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0040-combination-sum-ii/) | Medium |
 | [0090-subsets-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0090-subsets-ii/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0216-combination-sum-iii/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
