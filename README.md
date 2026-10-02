@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0040-combination-sum-ii/) | Medium |
+| [0079-word-search](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0090-subsets-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0216-combination-sum-iii/) | Medium |
@@ -26,6 +27,7 @@
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0022-generate-parentheses](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0022-generate-parentheses/) | Medium |
+| [0079-word-search](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0079-word-search/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -43,6 +45,7 @@
 | [0022-generate-parentheses](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0040-combination-sum-ii/) | Medium |
+| [0079-word-search](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0216-combination-sum-iii/) | Medium |
@@ -54,4 +57,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0090-subsets-ii/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0079-word-search/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0079-word-search](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0079-word-search/) | Medium |
 <!---LeetCode Topics End-->
