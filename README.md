@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0090-subsets-ii/) | Medium |
 | [0189-rotate-array](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0189-rotate-array/) | Medium |
@@ -45,6 +46,7 @@
 | [0022-generate-parentheses](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0040-combination-sum-ii/) | Medium |
+| [0051-n-queens](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
 | [0079-word-search](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -65,4 +67,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0079-word-search/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0051-n-queens](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
 <!---LeetCode Topics End-->
