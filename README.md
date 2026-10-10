@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
@@ -44,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0040-combination-sum-ii/) | Medium |
 | [0051-n-queens](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
@@ -66,9 +68,19 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0037-sudoku-solver/) | Hard |
 | [0079-word-search](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0079-word-search/) | Medium |
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0051-n-queens/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Yashpandey0912/Leetcode-Sol/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
